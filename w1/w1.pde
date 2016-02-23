@@ -11,7 +11,7 @@ frameRate(30);
 }
 
 void draw() {
-  background(255, 200, 0);
+  background(55, 120, 0);
   ellipse(x, height/2, 40, 40);
   x += 2;
   if (x > width + 40) {
